@@ -1,4 +1,4 @@
-# mediaplayer
+# mediaplayer using Gstreamer
 
 
 # JUKE-JINIE MEDIA PLAYER
